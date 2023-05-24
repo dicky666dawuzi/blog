@@ -1,0 +1,37 @@
+.container {
+  height: 430px;
+  width: 400px;
+  padding-top: 30px;
+}
+
+.title {
+  text-align: center;
+  color: limegreen;
+}
+
+.center-button{
+  display: flex;
+  justify-content: center;
+}
+
+label {
+  color: darkgreen;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #80ffff;
+}
+
+.bordered {
+  border: 1px solid;
+  border-radius: 6px;
+  border-color: rgb(255, 80, 50);
+
+  background-color: rgb(245, 235, 240);
+
+  font-size: 20px;
+}
