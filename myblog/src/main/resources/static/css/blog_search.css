@@ -1,0 +1,24 @@
+#row_1{
+	height: 10vh;
+}
+#row_2{
+	height: 84vh;	
+}
+#row_3{
+	height: 6vh;
+}
+
+#row_2_row_1{
+	height:76vh;
+}
+#row_2_row_2{
+	height:8vh;
+}
+
+
+.form-control{
+	width: 400px;
+    height: 50px;
+    padding: 10px;
+    font-size: 18px;
+}

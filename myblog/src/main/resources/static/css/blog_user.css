@@ -5,11 +5,16 @@
 	height: 82vh;	
 }
 #row_3{
-	height: 3vh;
+	height: 8vh;
 }
 #row_2_col_2_row_1{
-	height:74vh;
+	height:8vh;
+	
 }
 #row_2_col_2_row_2{
+	height:66vh;
+	padding-top:50px;
+}
+#row_2_col_2_row_3{
 	height:8vh;
 }
